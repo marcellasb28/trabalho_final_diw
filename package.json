@@ -1,0 +1,15 @@
+{
+  "name": "marcella_belchior_1529195---t2",
+  "version": "1.0.0",
+  "description": "Trabalho prático 2 - DIW",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Marcella Santos Belchior",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "json-server": "^1.0.0-beta.1"
+  }
+}
